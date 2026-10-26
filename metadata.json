@@ -1,0 +1,6 @@
+{
+  "name": "purnima jewellers",
+  "description": "Premium gold jewellery e-commerce website for purnima jewellers featuring authentic Indian bridal, festive, and everyday jewellery collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
